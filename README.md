@@ -53,8 +53,9 @@ Currently at **BSCI · Proyecto Draco** — internal systems for Banco G&T Conti
 | Project | Stack | Status |
 |---------|-------|--------|
 | **[Dislogos](https://dislogosgt.com)** — Full-stack platform for a lithographic printing company. JWT auth, dynamic pricing, PDF quotes, email notifications. | FastAPI · SQLAlchemy · Vanilla JS | ✅ Live |
-| **Imprenta Network** — Web app for a printing network. SSR, Supabase auth, dark mode. | Next.js 15 · TypeScript · Supabase | ✅ Live |
-| **HustleLook** — Brutalist streetwear landing page. Zero dependencies, custom animations, parallax. | HTML · CSS · Vanilla JS | 🔜 Soon |
+| **Imprenta Network** — Web app for a printing network. SSR, Supabase auth, dark mode. | Next.js 16 · TypeScript · Supabase | ✅ Live |
+| **[VictorWeb](https://victordeleon11.github.io/VictorWeb/)** — OS-style interactive portfolio. Draggable windows, dock, terminal emulator. Zero dependencies. | HTML · CSS · Vanilla JS | ✅ Live |
+| **HustleLook** — Brutalist streetwear brand landing page. Custom cursor, parallax, entrance animations. | HTML · CSS · Vanilla JS | 🔜 Soon |
 
 ---
 
