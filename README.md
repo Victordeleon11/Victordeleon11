@@ -3,7 +3,7 @@
 **Full-Stack Developer** based in Guatemala City 🇬🇹  
 Building real products with clean architecture and solid foundations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-victordeleon11.github.io-00d4ff?style=flat-square&logo=firefox&logoColor=white)](https://victordeleon11.github.io/VictorWeb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vdeleon11.github.io-00d4ff?style=flat-square&logo=firefox&logoColor=white)](https://vdeleon11.github.io/VictorWeb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victordeleon16-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordeleon16/)
 [![Email](https://img.shields.io/badge/Email-deleonvictorjose06@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deleonvictorjose06@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Available%20for%20freelance-50fa7b?style=flat-square)](mailto:deleonvictorjose06@gmail.com)
@@ -54,7 +54,7 @@ Currently at **BSCI · Proyecto Draco** — internal systems for Banco G&T Conti
 |---------|-------|--------|
 | **[Dislogos](https://dislogosgt.com)** — Full-stack platform for a lithographic printing company. JWT auth, dynamic pricing, PDF quotes, email notifications. | FastAPI · SQLAlchemy · Vanilla JS | ✅ Live |
 | **Imprenta Network** — Web app for a printing network. SSR, Supabase auth, dark mode. | Next.js 16 · TypeScript · Supabase | ✅ Live |
-| **[VictorWeb](https://victordeleon11.github.io/VictorWeb/)** — OS-style interactive portfolio. Draggable windows, dock, terminal emulator. Zero dependencies. | HTML · CSS · Vanilla JS | ✅ Live |
+| **[VictorWeb](https://vdeleon11.github.io/VictorWeb/)** — OS-style interactive portfolio. Draggable windows, dock, terminal emulator. Zero dependencies. | HTML · CSS · Vanilla JS | ✅ Live |
 | **HustleLook** — Brutalist streetwear brand landing page. Custom cursor, parallax, entrance animations. | HTML · CSS · Vanilla JS | 🔜 Soon |
 
 ---
@@ -62,8 +62,8 @@ Currently at **BSCI · Proyecto Draco** — internal systems for Banco G&T Conti
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victordeleon11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordeleon11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vdeleon11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vdeleon11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
